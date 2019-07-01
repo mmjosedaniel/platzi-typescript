@@ -11,7 +11,7 @@ export const environment = {
     projectId: 'platzi-typescript-9cb2b',
     storageBucket: '',
     messagingSenderId: '875893434258',
-    appId: '1:875893434258:web:b2b44ad9fd280c45'
+    appId: '1:875893434258:web:5e82932f4973b6bc'
   }
 };
 
