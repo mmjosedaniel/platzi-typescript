@@ -10,17 +10,18 @@ export interface Player {
 }
 
 export enum SquadNumber {
-    goalkeeper = 1,
-    rightBack = 4,
-    sweeper = 2,
-    stopeer = 6,
-    leftBack = 3,
-    rightMidFielder = 8,
-    centerlDefensiveMidFielder,
-    leftMilFielder = 10,
-    rightWinger = 7,
-    centreForward = 9,
-    leftWinger = 11
+  goalkeeper = 1,
+  rightBack = 4,
+  sweeper = 2,
+  stopeer = 6,
+  leftBack = 3,
+  rightMidFielder = 8,
+  centerlDefensiveMidFielder,
+  leftMilFielder = 10,
+  rightWinger = 7,
+  centreForward = 9,
+  leftWinger = 11,
+  length
 }
 
 export enum Countries {
